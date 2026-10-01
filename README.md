@@ -67,7 +67,4 @@ This project is developed for academic research and synthetic biology exploratio
 
 ```
 
----
 
-
-```
